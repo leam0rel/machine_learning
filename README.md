@@ -1,7 +1,9 @@
 # machine_learning
-Machine Learning projects
-This Github rep is meant to keep tracks of my personal projects in machine learning. I used to want to have one or 2 big projects, but now, I'd rather work on small projects and a lot of them, rather than start a big project and give up after some time as I can't work 8 hours a day on it, so I forget stuff when I get back to them and I lose a lot of time. The goal here is to work on one mini project a day, commit and push it here, to have a nice collection of the work I do. 
-As of today (27/04/2025), this repo will msotly be used for the 30 day Computer Vision challenge I found on youtube : https://www.youtube.com/watch?v=HiTw5KFw7ic&t=4s
+
+
+This Github rep is meant to keep tracks of my personal projects in machine learning. I used to want to have one or 2 big projects, but now, I'd rather work on small projects and have a lot of them, rather than start a big project and give up after some time. As I can't work 8 hours a day on it, so I forget stuff when I get back to them and I lose a lot of time. The goal here is to work on one mini project a day, commit and push it here, to have a nice collection of the work I do. 
+As of today (27/04/2025), this repo will mostly be used for the 30 day Computer Vision challenge I found on youtube : https://www.youtube.com/watch?v=HiTw5KFw7ic&t=4s
+
 These videos are made by Felipe, and are super useful to understand the concepts of CV, which is a field that really interests me. I'll do my best to work every day on this challenge, and not to skip any day.
 
 Here is a recap of all the projects that will be in this repo : 
