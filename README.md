@@ -16,6 +16,8 @@ Series of Dayxx_cv :
 As mentionned, this is the 30 day CV challenge on Yotube. The goal will be to do one project a day, so I'd expect to complete the challenge by the end of May if all goes well
 
 day1_cv : first day of the challenge, with a pretty complete OpenCV tutorial
+
 day2_cv : building a color detector to detect yellow !
-day3_cv : building a face anonymizer
+
+day3_cv : building a face anonymizer, that works with an image, a video or even the webcam !
 
